@@ -1,0 +1,8 @@
+{
+  "name": "Ghoest Poem",
+  "description": "A showcase of various features of the Gemini API, including image/video generation, live conversation, grounded search, and more.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
